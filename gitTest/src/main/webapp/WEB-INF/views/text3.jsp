@@ -12,5 +12,7 @@
 	<h2>admin으로 올라감2</h2>
 	<h2>admin으로 올라감3</h2>
 	commit
+	<h2>깃헙에서 수정</h2>
+
 </body>
 </html>

@@ -15,6 +15,6 @@
 <h2>eclipse update</h2>
 
 <h2>git update</h2>
-<h2>branch1</h2>
+<h2>commit</h2>
 </body>
 </html>

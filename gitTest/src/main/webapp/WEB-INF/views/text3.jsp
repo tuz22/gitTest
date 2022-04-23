@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h2>test3</h2>
+	<h2>admin으로 올라감</h2>
+	
 </body>
 </html>
